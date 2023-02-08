@@ -9,7 +9,7 @@
 **No. Sometimes.**
 
 ## What can it do?
-- create lines from slope, intercepts. two points or equation
+- create lines from slope, intercepts, two points or equation
 - find distances between points or lines
 - find perpendicular lines and angle between lines
 - *and perhaps more in the future*
