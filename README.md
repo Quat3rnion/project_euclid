@@ -3,7 +3,7 @@
 ![img_1.png](img_1.png)
 
 ## Does it break?
-**Yes. If you want to.**
+**Yes. If you want it to.**
 
 ## Is it always useful?
 **No. Sometimes.**
